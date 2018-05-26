@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pattaradanaipescharat/.android/build-cache/bb2a8aa59ee59e9620559fdeda7e528e110b8780/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="/Users/pattaradanaipescharat/Desktop/AphasiaProject/NewAphasiaTalkHelper/app/build/intermediates/pre-dexed/debug/classes_bc680f6bc6a3c49b5f9d1101e86483fe27079232.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pattaradanaipescharat/.android/build-cache/003eccf82dc52f928660dc1f0ce748b49ca64efa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="/Users/pattaradanaipescharat/Desktop/AphasiaProject/NewAphasiaTalkHelper/app/build/intermediates/pre-dexed/debug/classes_f16a4da163967d5939cf1372bfe1bf7ff56c59c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pattaradanaipescharat/.android/build-cache/3c1bd16fd3d859460ff871763a48a2fd47850e94/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/Users/pattaradanaipescharat/Desktop/AphasiaProject/NewAphasiaTalkHelper/app/build/intermediates/pre-dexed/debug/classes_7e08e8ef15d2635fb1156f46f20f0db88f5cff09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pattaradanaipescharat/.android/build-cache/c6c309d4096f3391fabcfe78d9b5c9b4e789da06/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="/Users/pattaradanaipescharat/Desktop/AphasiaProject/NewAphasiaTalkHelper/app/build/intermediates/pre-dexed/debug/classes_e75b400287bf37e3663e0be060d0de285ddde8de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pattaradanaipescharat/.android/build-cache/9f05f013e4a163b17a2d93cb1acc4b85916daf61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/Users/pattaradanaipescharat/Desktop/AphasiaProject/NewAphasiaTalkHelper/app/build/intermediates/pre-dexed/debug/classes_3ac0e40d78f69386003d723118fe2e1ebae154a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pattaradanaipescharat/.android/build-cache/80709140207763255790fb45cc470c8412d7a1f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="/Users/pattaradanaipescharat/Desktop/AphasiaProject/NewAphasiaTalkHelper/app/build/intermediates/pre-dexed/debug/classes_bd3105110b1994bd0867e57d5107b5861ce2a909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pattaradanaipescharat/.android/build-cache/3989792c83fecf68636e712774bd7a90301ade60/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="/Users/pattaradanaipescharat/Desktop/AphasiaProject/NewAphasiaTalkHelper/app/build/intermediates/pre-dexed/debug/classes_9f633ea24285c7b587ad56ff3a9d79f91e55c7cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pattaradanaipescharat/.android/build-cache/ca362e13066fc52547ed31c65df38f56babc73fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="/Users/pattaradanaipescharat/Desktop/AphasiaProject/NewAphasiaTalkHelper/app/build/intermediates/pre-dexed/debug/classes_df4e0a48bc87ed0d9281be8a92e022e81ef37743.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "917233682664",
+    "firebase_url": "https://aphasiatalk.firebaseio.com",
+    "project_id": "aphasiatalk",
+    "storage_bucket": "aphasiatalk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917233682664:android:1b90c663583db199",
+        "android_client_info": {
+          "package_name": "com.newaphasiatalkhelper.aphasiatalkhelpereng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917233682664-lfb00g2e0qfgp246mosdnti4speei58h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0941--4xs22Q3J6plGrchQExcpTZNh7g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917233682664:android:1c922b380a1bdbdc",
+        "android_client_info": {
+          "package_name": "com.newaphasiatalkhelper.newaphasiatalkhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917233682664-lfb00g2e0qfgp246mosdnti4speei58h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0941--4xs22Q3J6plGrchQExcpTZNh7g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

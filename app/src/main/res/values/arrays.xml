@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="symptom_array">
+        <item>Choice</item>
+        <item>Paralysis </item>
+        <item>Pathology of the brain</item>
+        <item>Pathology to the larynx</item>
+        <item>Sound nerves injury</item>
+        <item>Speechless</item>
+        <item>Neck pierce patient</item>
+        <item>Oral cavity and neck cancer</item>
+        <item>Other</item>
+    </string-array>
+</resources>
